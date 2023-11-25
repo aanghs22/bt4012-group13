@@ -4,7 +4,4 @@ bt4012 fraud detection project
 This repo contains all our code from all members.
 
 The relevant and final codes are
-data 
-extract-final
-eda-final
-model-final
+data, extract-final, eda-final & model-final in that order
